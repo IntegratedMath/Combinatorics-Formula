@@ -1,5 +1,4 @@
 import math
-import time  # Import the time module
 
 ### Input Section ###
 def main():
